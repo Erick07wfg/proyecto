@@ -37,7 +37,7 @@ $(document).on("click","#btnlogin", function(){
                 $('#lblmensaje').hide();
             }
             else{
-                window.open('http://localhost/login/view/home/','_self');
+                window.open('http://localhost/proyecto/view/home/index.html','_self');
                 window.lo
             }
         });
