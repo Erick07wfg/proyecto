@@ -57,7 +57,7 @@
                         <li><i class="fa-brands fa-google"></i></li>
                     </a>
                 </ul>
-                <a href="http://localhost/login/registro.php" target="_blank">¿Aun no tienes cuenta? Registrate</a>
+                <a href="http://localhost/proyecto/registro.php" target="_blank">¿Aun no tienes cuenta? Registrate</a>
             </div>
         </form>
     </div>
