@@ -49,5 +49,5 @@ CREATE TABLE Preguntas (
 
 
 INSERT INTO USER (NombreUsuario,Correo,pass,Roll)  VALUES  
-('ISA_JOSEP'  , 'isaurini1902@gmail.com' , 'ISA1902', 'Profesor') ; 
+('ISA_JOSEP'  , 'isaurini1902@gmail.com' , 'ISA1902', 'Profesor') , 
 ('MarcoA'  , 'marco1101777@gmail.com' , 'bWFyY292OjExMDE3N+sd', 'Profesor') ; 
